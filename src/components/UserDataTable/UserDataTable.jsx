@@ -4,6 +4,8 @@ import { FaPencil } from "react-icons/fa6";
 const UserDataTable = ({ user, onMakeAdminClick, onMakeVolunteerClick,statusChange }) => {
     // console.log(Object.keys(user).join(','));
     const {_id, name, email, role, status, imageURL, bloodGroup, district, upazila } = user;
+
+    // data table
    
     return (
         <tr>
