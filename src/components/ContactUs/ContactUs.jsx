@@ -3,6 +3,7 @@ import conactAnimation from '../../assets/animations/contAnimation.json'
 
 const ContactUs = () => {
     return (
+        // conatactUs
         <section className="py-10 ">
             <div className="grid max-w-7xl gap-7 grid-cols-1 justify-between items-center md:text-4xl px-6 mx-auto lg:px-8 lg:grid-cols-2 " >
                 <div className="py-6 md:py-0 md:px-6 mt-10" >
