@@ -3,19 +3,10 @@ import beatAnimation from '../../assets/animations/pulseRateNav.json'
 import Lottie from 'lottie-react';
 import { Player } from '@lottiefiles/react-lottie-player';
 const HeartBeat = () => {
-    // const playerRef = useRef(null);
-
-    // const handleMouseEnter = () => {
-    //   playerRef.current?.play();
-
-    // };
-
-    // const handleMouseLeave = () => {
-    //   playerRef.current?.stop();
-
-    // };
+    
 
     return (
+        // loadin speaner heart beat sign
         <div className='pb-10'
         // onMouseEnter={handleMouseEnter}
         // onMouseLeave={handleMouseLeave}
