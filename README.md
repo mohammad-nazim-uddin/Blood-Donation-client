@@ -1,6 +1,6 @@
 # Project-Name: Blood Donation
 
-**Live Link:** [Blood Donation](https://blood-donate-347ce.web.app)
+**Live Link:** [Blood Donation](https://snazzy-sopapillas-ebecef.netlify.app/)
 
 ## Introduction
 
